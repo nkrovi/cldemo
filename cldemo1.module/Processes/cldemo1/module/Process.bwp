@@ -357,6 +357,7 @@
                     <bpws:sources>
                         <bpws:source linkName="TimerToLog"/>
                     </bpws:sources>
+                    <bpws:correlations/>
                     <tibex:eventSource>
                         <bwext:BWActivity
                             activityTypeID="bw.generalactivities.timer"
