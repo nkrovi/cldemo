@@ -8,7 +8,7 @@ Require-Capability: com.tibco.bw.model; filter:="(name=bwext)",com.tib
 TIBCO-BW-ConfigProfile: META-INF/default.substvar
 TIBCO-BW-Version: 6.3.5 V17 2017-02-02
 Bundle-Name: Test1 Module
-Bundle-Version: 1.0.0.201702160359
+Bundle-Version: 1.0.0.201702161024
 Bundle-ClassPath: .
 TIBCO-BW-ApplicationModule: META-INF/module.bwm
 TIBCO-BW-JobSharedVariables: META-INF/module.jsv
