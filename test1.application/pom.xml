@@ -17,7 +17,7 @@
     <backup>false</backup>
     <truststorePath></truststorePath>
     <domainDesc></domainDesc>
-    <agentPort>9091</agentPort>
+    <agentPort>8079</agentPort>
     <truststorePassword></truststorePassword>
     <agentAuth></agentAuth>
     <agentHost>localhost</agentHost>
