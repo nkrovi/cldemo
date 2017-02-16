@@ -8,16 +8,6 @@
     <version>1.0.0-SNAPSHOT</version>
     <relativePath>../test1.application.parent</relativePath>
   </parent>
-  <distributionManagement>
-    <repository>
-      <snapshots>
-        <enabled>false</enabled>
-      </snapshots>
-      <id>central</id>
-      <name>Central Repository</name>
-      <url>https://repo.maven.apache.org/maven2</url>
-    </repository>
-  </distributionManagement>
   <artifactId>test1.application</artifactId>
   <packaging>bwear</packaging>
   <properties>
