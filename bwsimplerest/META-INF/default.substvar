@@ -75,7 +75,7 @@
 		</globalVariable>
 		<globalVariable>
 			<name>//bwsimplerest.module///http/helloPort</name>
-			<value>9091</value>
+			<value>7000</value>
 			<deploymentSettable>false</deploymentSettable>
 			<serviceSettable>false</serviceSettable>
 			<type>Integer</type>

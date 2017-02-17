@@ -21,19 +21,19 @@
     <truststorePassword></truststorePassword>
     <agentAuth></agentAuth>
     <agentHost>0.0.0.0</agentHost>
-    <httpPort>8060</httpPort>
+    <httpPort>8061</httpPort>
     <appNode>cldemo_appnode</appNode>
     <osgiPort></osgiPort>
     <appSpaceDesc></appSpaceDesc>
     <redeploy>true</redeploy>
     <keystorePassword></keystorePassword>
-    <agentPassword></agentPassword>
     <backupLocation></backupLocation>
+    <agentPassword></agentPassword>
     <appNodeDesc></appNodeDesc>
     <agentSSL>false</agentSSL>
     <agentUsername></agentUsername>
-    <deployToAdmin>true</deployToAdmin>
     <domain>cldemo</domain>
+    <deployToAdmin>true</deployToAdmin>
   </properties>
   <build>
     <plugins>
