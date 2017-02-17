@@ -27,13 +27,13 @@
     <appSpaceDesc></appSpaceDesc>
     <redeploy>true</redeploy>
     <keystorePassword></keystorePassword>
-    <backupLocation></backupLocation>
     <agentPassword></agentPassword>
+    <backupLocation></backupLocation>
     <appNodeDesc></appNodeDesc>
     <agentSSL>false</agentSSL>
     <agentUsername></agentUsername>
-    <domain>cldemo</domain>
     <deployToAdmin>true</deployToAdmin>
+    <domain>cldemo</domain>
   </properties>
   <build>
     <plugins>
